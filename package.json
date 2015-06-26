@@ -1,5 +1,5 @@
 {
-  "name": "dom-events",
+  "name": "@kylemathews/dom-events",
   "version": "0.1.1",
   "description": "dom event binding and triggering",
   "main": "index.js",
