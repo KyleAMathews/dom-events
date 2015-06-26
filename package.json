@@ -1,26 +1,26 @@
 {
   "name": "@kylemathews/dom-events",
-  "version": "0.1.2",
   "description": "dom event binding and triggering",
-  "main": "index.js",
+  "version": "0.1.2",
+  "author": "Roman Shtylman <shtylman@gmail.com>",
   "dependencies": {
-    "synthetic-dom-events": "0.1.1"
+    "@kylemathews/synthetic-dom-events": "^0.3.1"
   },
   "devDependencies": {
     "zuul": "~1.0.3"
   },
-  "scripts": {
-    "test": "zuul test.js"
-  },
+  "keywords": [
+    "dom",
+    "event",
+    "events"
+  ],
+  "license": "MIT",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/kyleamathes/dom-events.git"
   },
-  "keywords": [
-    "event",
-    "dom",
-    "events"
-  ],
-  "author": "Roman Shtylman <shtylman@gmail.com>",
-  "license": "MIT"
+  "scripts": {
+    "test": "zuul test.js"
+  }
 }
