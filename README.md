@@ -1,6 +1,8 @@
 # dom-events
 
-[![Build Status](https://travis-ci.org/defunctzombie/dom-events.png?branch=master)](https://travis-ci.org/defunctzombie/dom-events)
+Forked from https://www.npmjs.com/package/dom-events so [will build in
+Webpack](https://github.com/defunctzombie/dom-events/pull/7).
+
 
 DOM event binding and triggering
 
