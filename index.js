@@ -1,4 +1,4 @@
-var synth = require('synthetic-dom-events');
+var synth = require('@kylemathews/synthetic-dom-events');
 
 (function() {
     if (typeof document === 'undefined') {
